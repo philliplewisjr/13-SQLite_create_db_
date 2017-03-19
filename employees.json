@@ -1,0 +1,10 @@
+{
+  "list": [
+    { "id": "1", "firstName": "Dwight", "lastName": "Schrute", "jobTitle": "softwareLead", "address": "500_interstate_Blvd", "salary": 45000, "department": "Manager" },
+    { "id": "2", "firstName": "Holly", "lastName": "Fax", "jobTitle": "softwareDeveloper", "address": "500_interstate_Blvd", "salary": 47000, "department": "HR" },
+    { "id": "3", "firstName": "Jim", "lastName": "Halpert", "jobTitle": "softwareDesign", "address": "500_interstate_Blvd", "salary": 55000, "department": "IT" },
+    { "id": "4", "firstName": "Pam", "lastName": "Beesly", "jobTitle": "dataScience", "address": "500_interstate_Blvd", "salary": 52000, "department": "sales" },
+    { "id": "5", "firstName": "Michael", "lastName": "Scott", "jobTitle": "frontendDeveloper", "address": "500_interstate_Blvd", "salary": 60000, "department": "sales" },
+    { "id": "6", "firstName": "Stanley", "lastName": "Hudson", "jobTitle": "softwareLead", "address": "500_interstate_Blvd", "salary": 55000, "department": "sales" }
+  ]
+}
